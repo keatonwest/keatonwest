@@ -21,7 +21,7 @@ body::-webkit-scrollbar {
 }
 img{
   width: 400px;
-border-width: 5px;
+border-width: 15px;
   border-color: white;
   border-radius: 16px;
 }
