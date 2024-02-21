@@ -14,12 +14,14 @@ body::-webkit-scrollbar {
 }
 .card {
 
+  
   margin: auto;
   padding-bottom: 15px;
 
 }
 img{
   width: 400px;
-
+border-width: 5px;
+  border-color: white;
   border-radius: 16px;
 }
