@@ -1,0 +1,27 @@
+.main{
+  padding-top: 70px;
+  padding-left: 24px;
+  align-items: center;
+  display: grid; 
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  justify-content: center;
+
+
+
+}
+@media (max-width: 900px){.main
+   {grid-template-columns: 1fr}
+  
+}
+@media (min-width: 900px) and (max-width: 1400px){.main
+{grid-template-columns: 1fr 1fr}
+}
+
+
+@media (min-width: 1400px){.main
+  {grid-template-columns: 1fr 1fr 1fr}
+
+}

@@ -1,0 +1,25 @@
+.general {
+  background-color: rgb(44, 44, 44);
+  font-family: arial;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+height: 1000px;
+
+
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+.card {
+
+  margin: auto;
+  padding-bottom: 15px;
+
+}
+img{
+  width: 400px;
+
+  border-radius: 16px;
+}
