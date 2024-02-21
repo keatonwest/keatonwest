@@ -5,6 +5,9 @@
   margin-left: 0;
   margin-right: 0;
 height: 1000px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 
 
 }
