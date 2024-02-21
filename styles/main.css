@@ -1,6 +1,6 @@
 .main{
   padding-top: 70px;
-  padding-left: 24px;
+  
   align-items: center;
   display: grid; 
   grid-template-columns: 1fr 1fr 1fr;
