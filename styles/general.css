@@ -14,7 +14,10 @@ body::-webkit-scrollbar {
   display: none;
 margin: 0px;
 }
-
+.card {
+  margin: auto;
+  
+}
 }
 img{
   width: 500px;
